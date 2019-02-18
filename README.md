@@ -7,3 +7,4 @@ You can go to: https://tzounis.shinyapps.io/shinyapp/ and insert the following v
 4. Weight of the car.
 
 of your car in order to see what is the predicted mpg. 
+The presentation can be found here: http://rpubs.com/ctzounis/468460
